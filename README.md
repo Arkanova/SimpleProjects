@@ -1,2 +1,2 @@
 # SimpleProjects
-A collection of simple programs built to simply life
+A collection of simple programs built to simplify life
